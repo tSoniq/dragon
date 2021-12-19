@@ -29,7 +29,6 @@
 		4D2FEB2F275BC14A00A760DB /* ddebug_parse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ddebug_parse.h; sourceTree = "<group>"; };
 		4D3EBDD927293D910060D74C /* dragon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dragon; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D3EBDDC27293D920060D74C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		4D3EBE05272940340060D74C /* 00readme.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = 00readme.txt; sourceTree = "<group>"; };
 		4D3EBE1127294B810060D74C /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		4D3EBE1327295A1B0060D74C /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		4D3EBE1427295A1B0060D74C /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
@@ -58,7 +57,6 @@
 		4D3EBDD027293D910060D74C = {
 			isa = PBXGroup;
 			children = (
-				4D3EBE05272940340060D74C /* 00readme.txt */,
 				4D3EBDDB27293D920060D74C /* dragon */,
 				4DA9F4F3276E7BD0003F1054 /* logue */,
 				4D3EBDDA27293D910060D74C /* Products */,
